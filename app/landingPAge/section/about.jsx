@@ -93,11 +93,11 @@ export default function NutritionUI() {
                         <div className="text-gray-600 text-sm">Trusted Clients</div>
                     </div>
                     <div>
-                        <div className="text-3xl font-bold text-green-700 mb-1">36KG</div>
+                        <div className="text-3xl font-bold text-green-700 mb-1">36 Gram </div>
                         <div className="text-gray-600 text-sm">Protein Delivered</div>
                     </div>
                     <div>
-                        <div className="text-3xl font-bold text-green-700 mb-1">578KG</div>
+                        <div className="text-3xl font-bold text-green-700 mb-1">578 Gram</div>
                         <div className="text-gray-600 text-sm">Calories Burned</div>
                     </div>
                     <div>
